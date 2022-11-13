@@ -1,0 +1,17 @@
+node_modules
+.env
+package.json
+coverage
+coverage.json
+deployments
+
+img
+.*
+!.gitignore
+!.env.example
+
+gas-report.txt
+
+#Hardhat files
+cache
+artifacts
